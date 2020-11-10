@@ -44,7 +44,7 @@ $ python3 manage.py runserver
 ## Contributors
 - <a href="https://github.com/shreyasbhakta">Shreyas Bhakta</a>
 - <a href="https://github.com/sumanth-14">Sumanth Reddy</a>
-- <a href="https://github.com/<Contributor>">PVS Prasanth</a>
+- <a href="https://github.com/pvs156">PVS Prasanth</a>
 - <a href="https://github.com/15Ayush">Ayush Rai</a>
 - <a href="https://github.com/pratyusa98">Pratyush Dwibedy</a>
 
