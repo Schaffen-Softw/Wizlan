@@ -21,12 +21,12 @@ Additionally,in 4th update
   [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](INSERT_UI_LINK_HERE)
 
 ## Features
-- Generates,scans and reads QRcodes
+- Generates,Scans and Reads QRcodes
 - Reads Barcodes
 - Language Translator
 - Bill split Feature(In the 2nd update)
-- Language Translator{ADVANCED}(In the 3rd update)
-- PDF Scanner(In the 4th update)
+- Language Translator{ADVANCED} (In the 3rd update)
+- PDF Scanner (In the 4th update)
 
 ## Screenshots
 <img src="" alt="Project Screenshots">
@@ -42,9 +42,11 @@ $ python3 manage.py runserver
 ```
 
 ## Contributors
-- <a href="https://github.com/<Contributor>">Contributor Name</a>
-- <a href="https://github.com/<Contributor>">Contributor Name</a>
-- <a href="https://github.com/<Contributor>">Contributor Name</a>
+- <a href="https://github.com/shreyasbhakta">Shreyas Bhakta</a>
+- <a href="https://github.com/sumanth-14">Sumanth Reddy</a>
+- <a href="https://github.com/<Contributor>">PVS Prasanth</a>
+- <a href="https://github.com/15Ayush">Ayush Rai</a>
+- <a href="https://github.com/pratyusa98">Pratyush Dwibedy</a>
 
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
