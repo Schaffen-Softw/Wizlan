@@ -29,9 +29,11 @@ Additionally,in 4th update
 - PDF Scanner (In the 4th update)
 
 ## Screenshots
-<img src="" alt="Project Screenshots">
-<img src="" alt="Project Screenshots">
-<img src="" alt="Project Screenshots">
+<img src="https://i.postimg.cc/mrrKS7g7/splashscreen.jpg" alt="Splash Screen">
+<img src="https://i.postimg.cc/28mcwnH3/dashboard.jpg" alt="Dashboard">
+<img src="https://i.postimg.cc/WzsGMw2v/qrscanner.jpg" alt="QR and Barcode Scanner">
+<img src="https://i.postimg.cc/QCMB848H/qrgenerator.jpg" alt="QR Generator">
+<img src="https://i.postimg.cc/kGZ5n7Yp/translator.jpg" alt="Text Translator">
 
 ## Instructions to run
 ```
@@ -43,8 +45,8 @@ $ python3 manage.py runserver
 
 ## Contributors
 - <a href="https://github.com/shreyasbhakta">Shreyas Bhakta</a>
-- <a href="https://github.com/sumanth-14">Sumanth Reddy</a>
-- <a href="https://github.com/pvs156">PVS Prasanth</a>
+- <a href="https://github.com/sumanth-14">K Sai Sumanth Reddy</a>
+- <a href="https://github.com/pvs156">PVS Prashanth</a>
 - <a href="https://github.com/15Ayush">Ayush Rai</a>
 - <a href="https://github.com/pratyusa98">Pratyush Dwibedy</a>
 
