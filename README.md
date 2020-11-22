@@ -9,7 +9,7 @@
 
 >PDF scanner and converter.
 
->Language Transalator including speech-to-text-speech.
+>Language Translator including speech-to-text-speech.
 
 >Bill splitter.
 
