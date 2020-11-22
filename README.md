@@ -17,7 +17,7 @@
 
 In the 2nd update,
 
-**We will introduce PDF scanner (with many sub-options)like scanning images & saving as pdf,text recognition, converting pdf to any other formats like jpg,png,docx etc and vice-versa.Also,the feature of automatic text reader can be introduced in near future.
+**We will introduce PDF scanner (with many sub-options)like scanning images & saving as pdf,text recognition, converting pdf to any other formats like jpg,png,docx etc and vice-versa.Also,the feature of automatic text reader will be introduced in near future.
 -----
 
 In the 3rd update,
