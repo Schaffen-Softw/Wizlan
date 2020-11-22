@@ -2,20 +2,26 @@
 </p>
 
 # Wizlan(1.0)
-> A smart lens which Creates, Scans & Reads Qrcodes; Reads Barcodes & Translates words/sentences or phrases in "English" into more than 65+ languages.
+
+> A smart lens which Creates, Scans & Reads Qrcodes; Reads Barcodes.
+> Translates words/sentences or phrases in "English" into more than 65+ languages.
+> PDF Scanner and Converter
+> Language Transalator including sppech-to-text-speech.
+> Bill splitter
+
 
 In the 2nd update,
 
-*We will add the bill split feature
+**We will introduce PDF scanner (with many sub-options)like scanning images & saving as pdf,text recognition, converting pdf to any other formats like jpg,png,docx etc and vice-versa.Also,the feature of automatic text reader can be introduced in near future.
 -----
+
 In the 3rd update,
 
 *We will update Language Transalator by applying ML algorithms and also introducing speech-to-text language translation.
 -----
 Additionally,in 4th update
 
-**We will introduce PDF scanner (with many sub-options)like scanning images & saving as pdf,text recognition, converting pdf to any other formats like jpg,png,docx etc and vice-versa.Also,the feature of automatic text reader can be introduced in near future.
-
+*We will add the bill split feature
 ---
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
   [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](https://github.com/Schaffen-Softwares/Wizlan-Frontend)
@@ -24,9 +30,9 @@ Additionally,in 4th update
 - Generates,Scans and Reads QRcodes
 - Reads Barcodes
 - Language Translator
-- Bill split Feature(In the 2nd update)
+- PDF Scanner (In the 2nd update)
 - Language Translator{ADVANCED} (In the 3rd update)
-- PDF Scanner (In the 4th update)
+- Bill split Feature(In the 4th update)
 
 ## Screenshots
 <img src="https://i.postimg.cc/mrrKS7g7/splashscreen.jpg" alt="Splash Screen">
