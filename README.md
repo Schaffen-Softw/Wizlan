@@ -3,11 +3,16 @@
 
 # Wizlan(1.0)
 
-> A smart lens which Creates, Scans & Reads Qrcodes; Reads Barcodes.
-> Translates words/sentences or phrases in "English" into more than 65+ languages.
-> PDF Scanner and Converter
-> Language Transalator including sppech-to-text-speech.
-> Bill splitter
+>A smart lens which Creates, Scans & Reads Qrcodes; Reads Barcodes.
+
+>Translates words/sentences or phrases in "English" into more than 65+ languages.
+
+>PDF scanner and converter.
+
+>Language Transalator including sppech-to-text-speech.
+
+>Bill splitter.
+
 
 
 In the 2nd update,
@@ -31,7 +36,7 @@ Additionally,in 4th update
 - Reads Barcodes
 - Language Translator
 - PDF Scanner (In the 2nd update)
-- Language Translator{ADVANCED} (In the 3rd update)
+- Language Translator{sppech-to-text-speech} (In the 3rd update)
 - Bill split Feature(In the 4th update)
 
 ## Screenshots
